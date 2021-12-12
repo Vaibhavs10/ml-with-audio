@@ -48,8 +48,6 @@ In case you want to solidify a concept, or just want to go down further deep int
 * ESPnet - [Github repo](https://github.com/espnet/espnet)
 
 ## Demos
-* https://huggingface.co/spaces/akhaliq/steerable-nafx
-* https://huggingface.co/spaces/akhaliq/coqui-ai-tts
-* https://huggingface.co/spaces/facebook/XLS-R-2B-22-16
-* https://huggingface.co/spaces/nateraw/spotify-pedalboard-demo
-As the study group progresses, we'll continue to add community demos/ scripts/ URLs here.
+* Add interesting effects to your audio files - [Huggingface spaces](https://huggingface.co/spaces/akhaliq/steerable-nafx)
+* Generate Speech from text (TTS) - [Huggingface spaces](https://huggingface.co/spaces/akhaliq/coqui-ai-tts)
+* Generate text from Speech (ASR) - [Huggingface spaces](https://huggingface.co/spaces/facebook/XLS-R-2B-22-16)
