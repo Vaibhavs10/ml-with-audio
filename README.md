@@ -8,16 +8,19 @@ Welcome to the ML for Audio Study Group. Through a series of presentations, pape
 * Identifying which speaker is talking.
 * And much more!
 
-We suggest you to join the community Discord at http://hf.co/join/discord, and we're looking forward to meet at the #ml-4-audio-study-group channel.
+We suggest you to join the community Discord at http://hf.co/join/discord, and we're looking forward to meet at the #ml-4-audio-study-group channel 🤗. Remember, this is a community effort so make out of this your space!
 
 ## Organisation
 
 We'll kick off with some basics and then collaboratively decide the further direction of the group.
+
 Before each session: 
 * Read/watch related resources
+
 During each session, you can
 * Ask question in the forum
 * Present  a short (~10-15mins) presentation on the topic (agree beforehand)
+
 Before/after:
 * Keep discussing/asking questions about the topic (#ml-4-audio-study channel on discord)
 * Share interesting resources
@@ -26,8 +29,8 @@ Before/after:
 
 | Date         | Topics                                                    | Resources (To read before)                                                                                                                                                                                                           |
 |--------------|-----------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Dec 14, 2021 | Kickoff + Overview of Audio related usecases| [The 3 DL Frameworks for e2e Speech Recognition that power your devices](https://heartbeat.comet.ml/the-3-deep-learning-frameworks-for-end-to-end-speech-recognition-that-power-your-devices-37b891ddc380)                         |
-| Dec 21, 2021 | <ul><li> Intro to Audio </li><li>Automatic Speech Recognition Deep Dive</li></ul> | <ul><li> [Intro to Audio for FastAI Sections 1 and 2](https://nbviewer.org/github/mogwai/fastai_audio/blob/master/tutorials/01_Intro_to_Audio.ipynb) </li><li> [Speech and Language Processing 26.1-26.5](https://web.stanford.edu/~jurafsky/slp3/)</li> |
+| Dec 14, 2021 | Kickoff + Overview of Audio related usecases ([video](https://www.youtube.com/watch?v=cAviRhkqdnc&ab_channel=HuggingFace), [questions](https://discuss.huggingface.co/t/ml-for-audio-study-group-kick-off-dec-14/12745))| [The 3 DL Frameworks for e2e Speech Recognition that power your devices](https://heartbeat.comet.ml/the-3-deep-learning-frameworks-for-end-to-end-speech-recognition-that-power-your-devices-37b891ddc380)                         |
+| Dec 21, 2021 | <ul><li> Intro to Audio </li><li>Automatic Speech Recognition Deep Dive</li></ul> | <ul><li> [Intro to Audio for FastAI Sections 1 and 2](https://nbviewer.org/github/fastaudio/fastaudio/blob/master/docs/Introduction%20to%20Audio.ipynb) </li><li> [Speech and Language Processing 26.1-26.5](https://web.stanford.edu/~jurafsky/slp3/)</li> |
 | Dec 28, 2021 | Text to Speech Deep Dive                                | TBD                                                                                                                                                                                                                                  |
 
 ## Supplementary Resources
